@@ -1,0 +1,6 @@
+{
+  "name": "MDCAT Master",
+  "description": "Comprehensive MDCAT study companion featuring study notes, timed practice tests, AI study plans, video lectures, progress analytics, encrypted notes, and community forum developed by Dr salar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
